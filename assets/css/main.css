@@ -229,17 +229,9 @@ a {
     font-size: 24px;
 }
 
-.fs-25 {
-    font-size: 25px;
-}
-
-.ls-1 {
-    letter-spacing: 1px;
-}
-
-.ls-2 {
-    letter-spacing: 2px;
-}
+.fs-25 {font-size: 25px;}
+.ls-1 {letter-spacing: 1px;}
+.ls-2 {letter-spacing: 2px;}
 
 .container {
     max-width: 1200px;
